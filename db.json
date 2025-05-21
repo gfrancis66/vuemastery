@@ -29,6 +29,16 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+	{
+      "id": 231,
+      "category": "social",
+      "title": "Fun Run",
+      "description": "Get your running shoes on to raise money for cancer research.",
+      "location": "Castle Park",
+      "date": "July 31, 2025",
+      "time": "09:00",
+      "organizer": "Ben"
     }
   ]
 }
